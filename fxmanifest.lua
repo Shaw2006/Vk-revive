@@ -10,9 +10,9 @@ lua54 'yes'
 
 
 client_script{
-    'client/cl_client.lua'
+    'cl_client.lua'
 }
 
 server_script{
-    'server/sv_server.lua'
+    'sv_server.lua'
 }
