@@ -3,6 +3,10 @@ Vk-revive
 
 Qb core/Shared/Item.lua
 qb Inventory
+
+
+
+```
 ["name"] = "medkit",
 ["label"] = "Medkit",
 ["weight"] = 100,
@@ -13,3 +17,4 @@ qb Inventory
 ["shouldClose"] = true,
 ["combinable"] = nil,
 ["description"] = "Used to revive another person."
+```
